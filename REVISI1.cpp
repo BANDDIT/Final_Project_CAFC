@@ -4,12 +4,36 @@ char nama[255],hsl1[255],hsl2[255],hsl3[255],help;//varibel ini untuk penamaan
 char penyakit[255];
 
 /**
-Made By CAFC Team:
-1)Arrick Russell Adinoto(Leader)
-2)Abraham Rumondor
-3)Dimas Idham
-4)Michael Nathaniel
-5)David Timothy
+				    Made By CAFC Team:
+				     
+                                       Group Leader
+                                 Arrick Russell Adinoto
+
+                              Engineer & Backend Specialist
+                                    Abraham Rumondor
+                                  Arrick Russell Adinoto
+
+                              Designer & Frontend Specialist
+                                    Michael Nathaniel
+
+                                          Coder
+                                      David Timothy
+                                       Dimas Idham
+                                     Abraham Rumondor
+                                  Arrick Russell Adinoto
+
+                                       Group Speaker
+                                     Michael Nathaniel
+
+                                       Researcher
+                                      David Timothy
+                                       Dimas Idham
+
+                                         Writer
+                                      David Timothy
+                                       Dimas Idham
+
+
 **/
 
 void albino_dkk_2(){
